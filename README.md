@@ -1,27 +1,75 @@
-<!--
-SPDX-FileCopyrightText: 2020 Carl Schwan <carl@carlschwan.eu>
+[update-readmes]   Mode: rewrite — migrating to template structure...
+# mauikit-accounts
 
-SPDX-License-Identifier: BSD-2-Clause
--->
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/mauikit-accounts)
 
-# KQuickImageEditor
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-## Introduction
+## Architecture
 
-KQuickImageEditor is a set of QtQuick components providing basic image editing
-capabilities.
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
 
-![Video in action](koko-animation.mp4)
+## Install
 
-## Examples
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
 
-An example can be found in [the examples folder](examples).
+```bash
+git clone https://github.com/Interested-Deving-1896/mauikit-accounts.git
+cd mauikit-accounts
+```
+
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/mauikit-accounts`](https://github.com/Interested-Deving-1896/mauikit-accounts) and mirrored through:
+
+```
+Interested-Deving-1896/mauikit-accounts  ──►  OpenOS-Project-OSP/mauikit-accounts  ──►  OpenOS-Project-Ecosystem-OOC/mauikit-accounts
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
 
 ## License
 
-KQuickImageEditor is a licensed under the Lesser General Public License version
-2.1 or later. A copy of the license can be found in
-[this repo](LICENSES/LGPL-2.1-or-later.txt).
-
-The examples are licensed under the 2-Clause BSD, that can be found in
-[here](LICENSES/BSD-2-Clause.txt).
+<!-- AI:start:license -->
+<!-- License not detected — add a LICENSE file to this repo. -->
+<!-- AI:end:license -->
